@@ -17,3 +17,11 @@ print (num7, "This is the result of multiplying three numbers")
 num8 = num5
 print (num8)
 print (type(num8))
+name = "jojo"
+print (type(name))
+age = 33
+old =false
+a = none
+print (type(age))
+print (type(old))
+print (type(a))
