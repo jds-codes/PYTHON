@@ -19,9 +19,9 @@ print (num8)
 print (type(num8))
 name = "jojo"
 print (type(name))
-age = 33
-old =False
+age = True
+old ="@"
 a = None
 print (type(age))
-print (type(old))
 print (type(a))
+print (2*old*3)
