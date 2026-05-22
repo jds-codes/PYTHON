@@ -7,4 +7,10 @@ print ("    I am 23 years old", "I am from Bangladesh")
 num1 = 20
 num2 =50
 num3 =(num1+num2)
-print (      num3)
+print (num3)
+#suppose i need to multiply two numbers
+num4 =888
+num5 =485
+num6 =876
+num7 =(num4*num5*num6)
+print (num7, "This is the result of multiplying three numbers")
