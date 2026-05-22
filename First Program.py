@@ -20,8 +20,8 @@ print (type(num8))
 name = "jojo"
 print (type(name))
 age = 33
-old =false
-a = none
+old =False
+a = None
 print (type(age))
 print (type(old))
 print (type(a))
