@@ -20,8 +20,10 @@ print (type(num8))
 name = "jojo"
 print (type(name))
 age = True
-old ="@"
+Old ="@"
 a = None
+A,B = "2",3
 print (type(age))
 print (type(a))
-print (2*old*3)
+
+print ((A+Old)*B)
