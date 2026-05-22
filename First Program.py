@@ -14,3 +14,5 @@ num5 =485
 num6 =876
 num7 =(num4*num5*num6)
 print (num7, "This is the result of multiplying three numbers")
+num8 = num5
+print (num8)
