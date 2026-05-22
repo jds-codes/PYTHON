@@ -27,3 +27,6 @@ print (type(age))
 print (type(a))
 
 print ((A+Old)*B)
+"""next"""
+myname = input("what is your name?")
+print ("Hello", myname)
