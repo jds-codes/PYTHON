@@ -32,3 +32,9 @@ myname = input("what is your name?")
 print ("Hello", myname)
 myage = int(input("what is your age?"))
 print ("Your age is", myage)
+if myage >=18:
+    print ("You are eligible to vote")
+elif myage <18:
+    print ("You are underage")
+else:
+    print ("You are not eligible to vote")
