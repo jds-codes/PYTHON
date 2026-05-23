@@ -30,3 +30,5 @@ print ((A+Old)*B)
 """next"""
 myname = input("what is your name?")
 print ("Hello", myname)
+myage = int(input("what is your age?"))
+print ("Your age is", myage)
