@@ -1,0 +1,7 @@
+user_age=23
+product_price=155.33
+user_name="Jyotirmoy Das Surjyo"
+is_logged_in=True
+print(user_name , user_age , product_price, is_logged_in)
+score=89
+print(score)
