@@ -6,3 +6,6 @@ print(user_name , user_age , product_price, is_logged_in)
 score=87
 score=score+5+5+99
 print(score)
+age= int(input("age: "))
+vote = ("yes" ,"no") [age>=18]
+print(vote)
