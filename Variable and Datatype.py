@@ -9,3 +9,10 @@ print(score)
 age= int(input("age: "))
 vote = ("yes" ,"no") [age>=18]
 print(vote)
+a = 6
+b = 8
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
